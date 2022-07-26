@@ -195,7 +195,8 @@ class PriceRangeScreen extends StatelessWidget {
                             child: CustomNextButton()),
                       ),
                     ),
-                    Spacer()
+                    Spacer(),
+                    Text(" salam"),
                   ],
                 ),
               ),
